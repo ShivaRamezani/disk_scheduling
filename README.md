@@ -2,11 +2,13 @@
 
  
 Objective: 
+
 • To compare the performance of disk scheduling algorithms: 
 First-in-first-out (FIFO), Shortest-seek-time-first (SSTF), Scan, and C-Scan. 
  
  
 Specification: 
+
 • The program compares the disk scheduling algorithms: First-in-first-out (FIFO), Shortest-
 seek-time-first (STTF), Scan, and C-Scan in terms of traversing a set of tracks input by 
 the user, and calculates the total distance of the tracks traversed.  
@@ -18,4 +20,3 @@ the choices are:
 4) Calculate distance to traverse tracks using Scan 
 5) Calculate distance to traverse tracks using C-Scan 
 6) Quit program and free memory 
- 
